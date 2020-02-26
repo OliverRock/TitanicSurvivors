@@ -1,5 +1,5 @@
 # TitanicSurvivors
-Small project to consolidate some things I learned in from the courses Intro to Machine Learning from Goldsmiths University and RESTful APIs from Udemy.com
+Small project to consolidate a few things I learned in the courses Intro to Machine Learning from Goldsmiths University and RESTful APIs from Udemy.com
 
 This is an API to allow the user to predict if somebody would survive the titanic.
 
